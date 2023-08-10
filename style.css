@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {background-image: url('fundo-visual.webp')}
+
+h1 {
+    font-size: 50pt; 
+    text-align: center; 
+    color: rgb(221, 13, 138)
+}
+
+h3 {
+    font-size: 20pt;
+    color: rgb(0, 0, 0);
+}
+
+p {font-size: 12pt; 
+    color: rgb(61, 61, 61); 
+    font-family: Arial
+}
